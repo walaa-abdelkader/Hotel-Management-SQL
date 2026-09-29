@@ -129,7 +129,7 @@ The dashboard uses SQL Server data and views as the data source for reporting an
 
 ### Dashboard Preview
 
-![Hotel Management Dashboard](05_PowerBI_Dashboard/dashboard.png)
+<img width="1928" height="1190" alt="Screenshot 2026-09-30 001341" src="https://github.com/user-attachments/assets/0df25d00-e937-49b0-85f2-d089042c9d0d" />
 
 ---
 
