@@ -47,6 +47,8 @@ Key examples include:
 * **1NF:** Booking services are stored as individual records in `BookingServices`.
 * **2NF:** Service details depend on `ServiceID`, while booking-specific quantities are stored in `BookingServices`.
 * **3NF:** Hotel information is stored in the `Hotels` table instead of being repeated across related tables.
+### Entity Relationship Diagram
+![Uploading Screenshot 2026-09-29 233952.png…]()
 
 ---
 
