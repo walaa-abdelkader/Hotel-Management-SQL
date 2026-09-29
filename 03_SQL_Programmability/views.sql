@@ -1,8 +1,5 @@
 -- =====================================================
 -- Current Room Occupancy View
-
---# Current Room Occupancy View
-
 --This view provides the current room status and occupancy information.
 
 --It returns:
