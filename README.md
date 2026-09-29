@@ -48,6 +48,7 @@ Key examples include:
 * **2NF:** Service details depend on `ServiceID`, while booking-specific quantities are stored in `BookingServices`.
 * **3NF:** Hotel information is stored in the `Hotels` table instead of being repeated across related tables.
 ### Entity Relationship Diagram
+
 ![Uploading Screenshot 2026-09-29 233952.png…]()
 
 ---
@@ -146,12 +147,46 @@ The dashboard uses SQL Server data and views as the data source for reporting an
 ## 📂 Project Structure
 
 ```text
-01_Database_Design/
-02_SQL_Analysis/
-03_SQL_Programmability/
-04_Performance/
-05_PowerBI_Dashboard/
-```
+## 📂 Project Structure
+
+### 01. Database Design
+[View Database Design Files](01_Database_Design/)
+
+Includes:
+- Table creation
+- ERD
+- Database normalization
+
+### 02. SQL Analysis
+[View SQL Analysis Files](02_SQL_Analysis/)
+
+Includes:
+- Revenue analysis
+- Loyal guests
+- Arrivals & departures
+- Stay & revenue analysis
+
+### 03. SQL Programmability
+[View SQL Programmability Files](03_SQL_Programmability/)
+
+Includes:
+- Views
+- Stored Procedures
+- Functions
+- Transactions
+
+### 04. Performance
+[View Performance Files](04_Performance/)
+
+Includes:
+- Database indexes
+
+### 05. Power BI Dashboard
+[View Power BI Dashboard](05_PowerBI_Dashboard/)
+
+Includes:
+- Dashboard
+- Dashboard description
 
 ---
 
