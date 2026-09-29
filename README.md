@@ -170,7 +170,6 @@ Includes:
 - Views
 - Stored Procedures
 - Functions
-- Transactions
 
 ### 04. Performance
 [View Performance Files](04_Performance/)
