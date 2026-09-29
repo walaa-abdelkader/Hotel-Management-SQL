@@ -1,0 +1,34 @@
+# Database Normalization
+
+The hotel management database was designed using normalization principles up to Third Normal Form (3NF).
+
+## 1NF – First Normal Form
+
+The database follows 1NF by ensuring that each field contains atomic values.
+
+For example, services associated with a booking are not stored as multiple services in one column.
+
+Instead, the many-to-many relationship between Bookings and Services is handled through the `BookingServices` table.
+
+Each record represents one service associated with one booking.
+
+## 2NF – Second Normal Form
+
+The database follows 2NF by ensuring that non-key attributes depend on the entire primary key.
+
+In the `BookingServices` table:
+
+- `BookingID` and `ServiceID` form the composite primary key.
+- `Quantity` depends on the combination of the booking and service.
+
+Service details such as `ServiceName` and `Price` are stored in the `Services` table because they depend only on `ServiceID`.
+
+## 3NF – Third Normal Form
+
+The database follows 3NF by removing transitive dependencies.
+
+For example, hotel information is stored in the `Hotels` table rather than being repeated in tables such as `Rooms`, `Services`, and `Employees`.
+
+Related tables reference the hotel using `HotelID`.
+
+This reduces data redundancy and improves data consistency.
