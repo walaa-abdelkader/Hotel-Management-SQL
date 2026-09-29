@@ -146,9 +146,6 @@ The dashboard uses SQL Server data and views as the data source for reporting an
 
 ## 📂 Project Structure
 
-```text
-## 📂 Project Structure
-
 ### 01. Database Design
 [View Database Design Files](01_Database_Design/)
 
@@ -187,8 +184,6 @@ Includes:
 Includes:
 - Dashboard
 - Dashboard description
-
----
 
 ## 💡 Key Skills Demonstrated
 
