@@ -1,3 +1,4 @@
+-- =====================================================
 --Loyal Guests
 --This query identifies guests who made at least three 
 --bookings within the last 12 months of the latest booking date in the database.
