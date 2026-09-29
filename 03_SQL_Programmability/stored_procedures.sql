@@ -1,7 +1,5 @@
 -- =====================================================
 -- Guest Check-In Stored Procedure
---# Stored Procedure – Guest Check-In
-
 `--sp_CheckInGuest` automates the guest check-in process.
 
 ---The procedure:
