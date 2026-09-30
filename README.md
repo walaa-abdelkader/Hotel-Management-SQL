@@ -1,3 +1,4 @@
+<img width="1832" height="980" alt="EDR" src="https://github.com/user-attachments/assets/343c16df-d4b1-40ce-b686-98a62880c3bf" />
 # 🏨 Hotel Management Database & Analytics
 
 ## 📌 Project Overview
