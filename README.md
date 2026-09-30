@@ -1,4 +1,3 @@
-<img width="1832" height="980" alt="EDR" src="https://github.com/user-attachments/assets/343c16df-d4b1-40ce-b686-98a62880c3bf" />
 # 🏨 Hotel Management Database & Analytics
 
 ## 📌 Project Overview
@@ -50,7 +49,7 @@ Key examples include:
 * **3NF:** Hotel information is stored in the `Hotels` table instead of being repeated across related tables.
 ### Entity Relationship Diagram
 
-![EDR Dashboard](./05_PowerBI_Dashboard/EDR.png)
+<img width="1832" height="980" alt="EDR" src="https://github.com/user-attachments/assets/343c16df-d4b1-40ce-b686-98a62880c3bf" />
 ---
 
 # 2️⃣ SQL Analysis
