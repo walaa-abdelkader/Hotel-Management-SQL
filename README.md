@@ -49,8 +49,7 @@ Key examples include:
 * **3NF:** Hotel information is stored in the `Hotels` table instead of being repeated across related tables.
 ### Entity Relationship Diagram
 
-![Uploading Screenshot 2026-09-29 233952.png…]()
-
+![EDR Dashboard](./05_PowerBI_Dashboard/EDR.png)
 ---
 
 # 2️⃣ SQL Analysis
